@@ -73,12 +73,12 @@ hr.small {
     background: transparent;
     border-bottom: 1px solid transparent;
   }
-  .navbar-custom .navbar-brand {
+  .navbar-custom .search {
     color: white;
     padding: 20px;
   }
-  .navbar-custom .navbar-brand:hover,
-  .navbar-custom .navbar-brand:focus {
+  .navbar-custom .search:hover,
+  .navbar-custom .search:focus {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
@@ -121,11 +121,11 @@ hr.small {
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
   }
-  .navbar-custom.is-fixed .navbar-brand {
+  .navbar-custom.is-fixed .search {
     color: #333333;
   }
-  .navbar-custom.is-fixed .navbar-brand:hover,
-  .navbar-custom.is-fixed .navbar-brand:focus {
+  .navbar-custom.is-fixed .search:hover,
+  .navbar-custom.is-fixed .search:focus {
     color: #0085A1;
   }
   .navbar-custom.is-fixed .nav li a {
