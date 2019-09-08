@@ -30,7 +30,7 @@
     height: 30px;
     background: url(../img/icon_search.png) no-repeat 4px center;
 } */
-input, button  {
+input {
     padding: 0;
     border: none;
     outline: none;
