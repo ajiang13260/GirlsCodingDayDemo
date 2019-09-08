@@ -53,7 +53,7 @@ hr.small {
   z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-.navbar-custom .navbar-brand {
+.navbar-custom .search {
   font-weight: 800;
 }
 .navbar-custom .navbar-header .navbar-toggle {
